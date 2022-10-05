@@ -1,4 +1,4 @@
-### Olá, eu sou Rômulo Rodrigues👋
+### Olá, eu sou Rômulo Rodrigues
 
 <div align="left">
   <a href="https://github.com/romulorodrigues1629">

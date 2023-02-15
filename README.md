@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://github.com/romulorodrigues1629">
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/ap?(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=romulorodrigues1629&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulorodrigues1629&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel-git-masterrstaa-rickstaa.app/api/top-langs/?username=romulorodrigues1629&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>

@@ -1,9 +1,8 @@
 ### Olá, eu sou Rômulo Rodrigues!! 🧛‍♂️🩸
 
-<div align="left">
-  <a href="https://github.com/romulorodrigues1629">
-    <img height="150em" src="https://github-readme-stats.vercel.app/ap?(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=romulorodrigues1629&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulorodrigues1629&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=romulorodrigues1629&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=808080&text_color=c9d1d9&bg_color=000000" alt="Rômulo Rodrigues github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulorodrigues1629&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=000000" />
 </div>
 
 <div style="display: inline_block"><br>
